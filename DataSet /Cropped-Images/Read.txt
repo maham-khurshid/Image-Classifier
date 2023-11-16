@@ -1,0 +1,4 @@
+# I have add only few samples of cropped images from each celebrity, which are created on the way of data cleaning for each celebrity 'untuched - downloaded' images
+from the internet.
+
+# these cropped images will be our input for X-sets.
