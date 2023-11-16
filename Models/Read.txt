@@ -1,0 +1,4 @@
+# Two models by using two different techniques
+
+* model.python file consist of pretrain models of machine learning.
+* 2nd-model file consist of simple machine learning techinques. 
